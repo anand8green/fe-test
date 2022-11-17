@@ -1,0 +1,15 @@
+.container {
+  max-width: 50rem;
+}
+.tab {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  margin-left: 1rem;
+  border-bottom: 2px solid rgb(14, 187, 255);
+}
+
+.tab-inner {
+  margin-left: 1rem;
+}
